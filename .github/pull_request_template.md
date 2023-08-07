@@ -21,7 +21,7 @@ Please delete options that are not relevant.
 ## Jira task
 Please include a link to the corresponding Jira task, if applicable.
 
-[{JIRA Task Number}](https://transcat.atlassian.net/browse/{JIRA Task Number})
+[{JIRA Task Number}](JIRA Task URL)
 
 ## Additional information
 Please include any additional information or context that may be relevant to the pull request, such as dependencies or special considerations.
